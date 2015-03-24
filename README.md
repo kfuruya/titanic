@@ -7,4 +7,7 @@ given actor survives the sinking of the titanic. Follow the link to find the
 data.
 
 ##TODO
-initialize the project, yo
+Find the meaningful human-readable passenger stats, actually parse the data
+
+![Image of julialang viking]
+(http://i.imgur.com/9apAakv.jpg)
